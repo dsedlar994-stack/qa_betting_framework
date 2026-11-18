@@ -1,0 +1,15 @@
+# Игнорировать локальные секретные файлы с настройками
+.env
+
+# Игнорировать виртуальное окружение Python
+.venv/
+venv/
+
+# Игнорировать кэш pytest
+.pytest_cache/
+__pycache__/
+
+# Игнорировать отчёты Allure и настройки IDE
+allure-results/
+allure-report/
+.idea/
