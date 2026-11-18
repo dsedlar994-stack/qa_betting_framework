@@ -30,5 +30,5 @@
 
 1. Клонировать репозиторий и перейти в папку проекта:
    ```bash
-  git clone https://github.com/dsedlar994-stack/qa_betting_framework.git
-cd qa_betting_framework
+   git clone https://github.com/dsedlar994-stack/qa_betting_framework.git
+   cd qa_betting_framework
